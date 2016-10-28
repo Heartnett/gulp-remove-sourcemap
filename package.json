@@ -1,0 +1,10 @@
+{
+  "name": "gulp-remove-sourcemap",
+  "version": "1.0.0",
+  "description": "A gulp plugin which removes all traces of sourcemap files.",
+  "author": "Heartnett",
+  "dependencies": {
+    "del": "^2.2.2",
+    "through2": "^2.0.1"
+  }
+}
